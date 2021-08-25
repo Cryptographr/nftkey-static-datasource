@@ -42,5 +42,13 @@
   {
     "tokenId": 56,
     "reward": 0.5
+  },
+  {
+    "tokenId": 64,
+    "reward": 0
+  },
+  {
+    "tokenId": 65,
+    "reward": 0.5
   }
 ]
